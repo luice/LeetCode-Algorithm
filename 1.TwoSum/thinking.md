@@ -17,7 +17,7 @@
 
 ## 代码
 
-[Solution.java](/Solution.java)
+[Solution.java](/1.TwoSum/Solution.java)
 
 ## 运行结果
 

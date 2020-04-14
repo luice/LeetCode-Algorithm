@@ -54,5 +54,9 @@ P     I
 
 **注意** `numRows==1` 要单独判断，单独处理。
 
+## 代码
+
+[Solution.java](/6.ZigZagConversion/Solution.java)
+
 ## 运行结果
 30ms，超过 83.58% 的 Java 提交。

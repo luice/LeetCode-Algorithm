@@ -111,6 +111,12 @@ class Solution {
 
 这个不写了，编程比较复杂，而且不比递归省时间。
 
+## 代码
+
+**递归算法**：[Solution\_rc.java](/10.RegularExpressionMatching/Solution_rc.java)
+
+**动态规划**：[Solution\_dp.java](/10.RegularExpressionMatching/Solution_dp.java)
+
 ## 运行结果
 
 递归算法：33ms，超过 44.18% 的 Java 提交。

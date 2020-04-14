@@ -36,6 +36,11 @@
 
 负数直返返回 flase，正数，先找到最高位，然后每次提取最高位和最低位进行比较，比较之后原数除以10。
 
+## 代码
+
+**普通做法**：[Solution\_common.java](/9.PalindromeNumber/Solution_common.java)
+**提高难度**：[Solution\_advance.java](/9.PalindromeNumber/Solution_advance.java)
+
 ## 运行结果
 
 普通做法：99ms，超过 87.15% 的 Java 提交。

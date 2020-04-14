@@ -75,6 +75,11 @@
 > 乘法不越界的条件是：`(x*y)/x == y`
 > 加法不越界的条件是：`x+y >= 0`
 
+## 代码
+
+**正常做法**：[Solution.java](/8.StringToInteger_atoi/Solution.java)
+**偷懒做法**：[Solution\_laze.java](/8.StringToInteger_atoi/Solution_laze.java)
+
 ## 运行结果
 
 偷懒的做法：24ms，超过 74.07% 的 Java 提交。

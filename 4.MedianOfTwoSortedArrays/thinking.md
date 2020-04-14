@@ -107,5 +107,9 @@ B 割在 3 上，则 `C2 = 3， L2 = (3-1)/2 = 1, R2 = 3/2 = 1`，都恰为原数组中 3 的位
 
 需要注意，其中一个数组可能为空，这时要单独处理。
 
+## 代码
+
+[Solution.java](/4.MedianOfTwoSortedArrays/Solution.java)
+
 ## 运行结果
 39ms，超过 56.32% 的 Java 提交。

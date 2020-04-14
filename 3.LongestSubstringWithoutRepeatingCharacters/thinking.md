@@ -66,6 +66,10 @@ abcdecfghgijkabcde
 
 题目中还有一个小坑，要小心：输入有可能是空串，此时要输出 `0`.
 
-【运行结果】
+## 代码
+
+[Solution.java](/3.LongestSubstringWithoutRepeatingCharacters/Solution.java)
+
+## 运行结果
 
 32ms，超过 74.29% 的 Java 提交。

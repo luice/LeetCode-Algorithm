@@ -30,6 +30,10 @@
 
 由于反转之后的数可能超出整数的范围，直接用 `int` 表示反转之后的数很难判断，所以，可以用 `StringBuilder` 来保存反转之后的数。然后再用 `Integer.parseInt` 函数来转化为整数，此时如果越界，会抛一个 `NumberFormatException` 异常，`catch` 这个异常即可。
 
+## 代码
+
+[Solution.java](/7.ReverseInteger/Solution.java)
+
 ## 运行结果
 
 27ms，超过 55.12% 的 Java 提交。
